@@ -4,9 +4,9 @@
   <i>🎓 Computer Science Student @ PUC Minas 1/8</i>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,git,github,vscode" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="./assets/mago.jpg" alt="Mago" width="300">
