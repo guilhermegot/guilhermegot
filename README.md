@@ -46,13 +46,15 @@
 
 <h3 align="center">Github Status</h3>
 
-<img align="right"
-     width="48%"
-     src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" />
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
+  />
 
-<img align="right"
-     width="48%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegot&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
-
-<br clear="right" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegot&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"
+  />
+</p>
 
