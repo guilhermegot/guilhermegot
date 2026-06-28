@@ -46,17 +46,18 @@
 
 <h3 align="center">GitHub Status</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegot&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/guilhermegot/github-readme-stats">
+    <img
+      height="200" align="center"
+      src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
+    />
+  </a>
+
+  <a href="https://github.com/guilhermegot">
+    <img
+      height="200" align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegot&layout=compact&langs_count=8&card_width=320&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"
+    />
+  </a>
+</p>
