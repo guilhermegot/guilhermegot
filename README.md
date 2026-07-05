@@ -18,9 +18,9 @@
 
 <img align="right" src="./assets/batmanlegolegal.jpg" width="350" />
 
-> "Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente, incendeie o seu coração, enxugue as lágrimas e siga em frente.
->
-> Quando se entristecer ou se acovardar lembre-se que o fluxo do tempo nunca para, ele não vai te esperar enquanto você se afoga em tristeza."
+> . . . Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience
+> becoming, to find out what's inside you, to make your soul grow.
+> Seriously! I mean starting right now, do art and do it for the rest of your lives. Draw a funny or nice picture of Ms. Lockwood, and give it to her. Dance home after school, and sing in the shower and on and on. Make a face in your mashed potatoes. Pretend you're Count Dracula.
 
 <br clear="right" />
 
