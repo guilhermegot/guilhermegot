@@ -5,7 +5,7 @@
 <h1 align="center">Guilherme D.</h1>
 
 <p align="center">
-  <i>🎓 Computer Science Student @ PUC Minas (1/8)</i>
+  <i>🎓 Computer Science Student @ PUC Minas (2/8)</i>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/guilhermegot?style=for-the-badge&color=red" />
 </p>
 
-<h3>About me</h3>
+<h2>About me</h2>
 
 <img align="right" src="./assets/batmanlegolegal.jpg" width="350" />
 
@@ -22,42 +22,48 @@
 > becoming, to find out what's inside you, to make your soul grow.
 > Seriously! I mean starting right now, do art and do it for the rest of your lives. Draw a funny or nice picture of Ms. Lockwood, and give it to her. Dance home after school, and sing in the shower and on and on. Make a face in your mashed potatoes. Pretend you're Count Dracula.
 
+<p>
+  I'm a <strong> Computer Science student at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</strong>, passionate about building experiences that inspire and solve problems to make people's lives easier.
+</p>
+
 <br clear="right" />
 
-### Connect me
+<h2>Technologies I've been using</h2>
+<p>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<h2>What I'm learning</h2>
+
+<ul>
+  <li>Data Structures and Algorithms II</li>
+  <li>Database I</li>
+  <li>Calculus II</li>
+  <li>Web Interface Development</li>
+  <li>Software Engineering I</li>
+  <li>Front-End Development</li>
+</ul>
+
+<p>
+  📚 <a href="https://www.pucminas.br/campus/lourdes/ensino/graduacao/Paginas/ciencias-da-computacao.aspx" target="_blank">
+    Click here to see the full curriculum
+  </a>
+</p>
+
+<h2>Connect me</h2>
 
 <p align="left">
-  <a href="mailto:frsguilhermebarbosal@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <a href="mailto:guilhermegot@pm.me">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=white" alt="Proton Mail"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/guilherme-da-silva-barbosa-b74a0b419/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://music.youtube.com/playlist?list=PLHpvvZ0bFtorkGhdhz6wP9319czV95jEU&si=pd4zkdDqYaC4yRz0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spotify" height="45" />
-  </a>
-
-  <a href="https://www.youtube.com/@guilhermincam" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
+  <a href="https://www.linkedin.com/in/guilherme-da-silva-barbosa-b74a0b419">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<h3 align="center">GitHub Status</h3>
-
-<p align="center">
-  <a href="https://github.com/guilhermegot/github-readme-stats">
-    <img
-      height="200" align="center"
-      src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
-    />
-  </a>
-
-  <a href="https://github.com/guilhermegot">
-    <img
-      height="200" align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegot&layout=compact&langs_count=8&card_width=320&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"
-    />
-  </a>
-</p>
