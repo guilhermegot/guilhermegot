@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/goats.jpg" alt="Batman and robin lego" width="600">
-</p>
-
 <h1 align="center">Guilherme D.</h1>
 
 <p align="center">
@@ -15,8 +11,6 @@
 </p>
 
 <h2>About me</h2>
-
-<img align="right" src="./assets/batmanlegolegal.jpg" width="350" />
 
 > . . . Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience
 > becoming, to find out what's inside you, to make your soul grow.
