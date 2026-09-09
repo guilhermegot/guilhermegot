@@ -14,7 +14,6 @@
 
 > . . . Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience
 > becoming, to find out what's inside you, to make your soul grow.
-> Seriously! I mean starting right now, do art and do it for the rest of your lives. Draw a funny or nice picture of Ms. Lockwood, and give it to her. Dance home after school, and sing in the shower and on and on. Make a face in your mashed potatoes. Pretend you're Count Dracula.
 
 <p>
   I'm a <strong> Computer Science student at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</strong>, passionate about building experiences that inspire and solve problems to make people's lives easier.
