@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-ED8B00?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
