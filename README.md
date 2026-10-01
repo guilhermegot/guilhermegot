@@ -1,9 +1,8 @@
-<h1 align="center"> Guilherme da Silva Barbosa </h1>
-<h3 align="center">Computer Science Student • PUC Minas</h3>
 <p align="center">
   <img width="600" src="assets/neve.jpg"/>
 </p>
-
+<h1 align="center"> Guilherme da Silva Barbosa </h1>
+<h3 align="center">Computer Science Student • PUC Minas</h3>
 
 ## 🌐 Connect with me
 
