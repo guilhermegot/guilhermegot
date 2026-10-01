@@ -1,63 +1,32 @@
-<h1 align="center">Guilherme D.</h1>
+<h1 align="center"> Guilherme da Silva Barbosa </h1>
+<h3 align="center">Computer Science Student • PUC Minas</h3>
+<p align="center">
+  <img width="600" src="assets/neve.jpg"/>
+</p>
+
+
+## 🌐 Connect with me
 
 <p align="center">
-  <i>🎓 Computer Science Student @ PUC Minas (2/8)</i>
+  <a href="https://www.linkedin.com/in/guilherme-da-silva-barbosa-b74a0b419/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:guilhermegot@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermegot&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/guilhermegot?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/guilhermegot?style=for-the-badge&color=red" />
-</p>
-
-<h2>About me</h2>
-
-> . . . Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience
-> becoming, to find out what's inside you, to make your soul grow.
-
-<p>
-  I'm a <strong> Computer Science student at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</strong>, passionate about building experiences that inspire and solve problems to make people's lives easier.
-</p>
-
-<br clear="right" />
-
-<h2>Technologies I've been using</h2>
-<p>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-ED8B00?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<h2>What I'm learning</h2>
-
-<ul>
-  <li>Data Structures and Algorithms II</li>
-  <li>Database I</li>
-  <li>Calculus II</li>
-  <li>Web Interface Development</li>
-  <li>Software Engineering I</li>
-  <li>Front-End Development</li>
-</ul>
-
-<p>
-  📚 <a href="https://www.pucminas.br/campus/lourdes/ensino/graduacao/Paginas/ciencias-da-computacao.aspx" target="_blank">
-    Click here to see the full curriculum
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,postgresql,git,github,vscode,vim,figma,linux&theme=dark" />
   </a>
 </p>
 
-<h2>Connect me</h2>
-
-<p align="left">
-  <a href="mailto:guilhermegot@pm.me">
-    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=white" alt="Proton Mail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-da-silva-barbosa-b74a0b419">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
