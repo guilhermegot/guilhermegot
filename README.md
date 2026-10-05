@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,sql,git,github,vscode,vim,figma,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode,vim,figma,linux&theme=dark" />
   </a>
 </p>
 
